@@ -1,11 +1,11 @@
 # Katerina<br>(Katsiaryna)<br>PIATRENKA<br> 
 ![image](./docs/cv-photo.png)   
 
-|  |Email        *petrenka.katerina@gmail.com* 
----|:---
-|  | Phone *+4206088237748*
-|  | Date of birth     *Jun 28, 1988*
-|  | Nationality      *Belarusian*
+|  |Email     |   *petrenka.katerina@gmail.com* 
+---|---|:---
+|  | Phone |*+420608823774*
+|  | Date of birth   |  *Jun 28, 1988*
+|  | Nationality   |   *Belarusian*
 <br>
 
 ### **OBJECTIVE** ###
@@ -22,7 +22,7 @@
  
  JSB Belinvestbank | EPAM System
   --- | ---
- Grodno, Belarus<br>*Jul 2008 - Apr2020*<br>**Client relations manager <br>(account manager)**<br> | Grodno, Belarus<br>Jun 2021 - Sep 2021<br>**Manual Tester (QA Engineer)**<br>
+ Grodno, Belarus<br>*Jul 2008 - Apr 2020*<br>**Client relations manager <br>(account manager)**<br> | Grodno, Belarus<br>*Jun 2021 - Sep 2021*<br>**Manual Tester <br>(QA Engineer)**<br>
  <br>
 
  ### **EDUCATION** ###
@@ -32,7 +32,7 @@
   ---|---
   Minsk, Belarus<br>*Sep 2008 - May 2013*<br>**Finance and Credit (Banking)** | Grodno, Belarus<br>*May 2021 - Jul 2021*<br>**Junior Manual Tester**
  <br>
- <br>
+ 
 ### **SKILLS** ###    
 - office work-business communication
 - organization and performance of work at all stages of software testing
